@@ -1,5 +1,6 @@
 # WebServices
 
+Deploy the Project WAR on server and use following api request on Postman client
 ### For Login 
 http://localhost:8080/forum/webapi/users/login
 
