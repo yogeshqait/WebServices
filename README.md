@@ -11,5 +11,6 @@ http://localhost:8080/forum/webapi/messages/all
 ### To Post New comment
 http://localhost:8080/forum/webapi/messages/new
 
-### For Login (Use this service on the webpage by entering the form fields not on Postman as it is consumes FORM_URL_ENCODED 
+### For Login (Use this service on the webpage by entering the form fields not on Postman as it is consumes FORM_URL_ENCODED)
+http://localhost:8080/forum/
 http://localhost:8080/forum/webapi/users/login
